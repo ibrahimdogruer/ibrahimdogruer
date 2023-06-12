@@ -1,5 +1,7 @@
 ### Hello there! I'm İbrahim 👋
 
+![](https://media.tenor.com/o9wCkXBm9PkAAAAC/obi-wan-kenobi.gif)
+
 # 💫 About Me:
 💻 I'm a Software Developer who likes to learn new things<br>😎 I'm more interested in Frontend Development and Mobile Development<br>📪 Shoot me an [Email](mailto:ibrahim.dogruer.97@gmail.com) or add me on [LinkedIn](https://linkedin.com/in/ibrahimdogruer) :)
 
@@ -18,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<!-- <img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ibrahimdogruer&icon=2&color=0)](https://visitcount.itsvg.in)
